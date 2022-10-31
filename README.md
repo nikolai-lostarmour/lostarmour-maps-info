@@ -7,10 +7,11 @@
 4. карта опорников в гугле - не сохранил
 
 Альтернативные карты: 
-* карта лостармора (от пользователя Igor Primorsky) на топоподложке - https://nakarte.me/#m=9/48.49841/37.31506&l=Otm/-cseyJuYW1lIjoiSGlsbHNoYWRlIFdpbmR5IiwidXJsIjoiaHR0cHM6Ly9hbnlnaXMucnUvYXBpL3YxL0hpbGxzaGFkZV9XaW5keS97eH0ve3l9L3t6fSIsInRtcyI6ZmFsc2UsInNjYWxlRGVwZW5kZW50IjpmYWxzZSwibWF4Wm9vbSI6MTEsImlzT3ZlcmxheSI6dHJ1ZSwiaXNUb3AiOnRydWV9
+* карта лостармора (от пользователя Igor Primorsky) на топоподложке - https://nakarte.me/#m=8/48.31243/36.66687&l=Otm/-cseyJuYW1lIjoiSGlsbHNoYWRlIFdpbmR5IiwidXJsIjoiaHR0cHM6Ly9hbnlnaXMucnUvYXBpL3YxL0hpbGxzaGFkZV9XaW5keS97eH0ve3l9L3t6fSIsInRtcyI6ZmFsc2UsInNjYWxlRGVwZW5kZW50IjpmYWxzZSwibWF4Wm9vbSI6MTEsImlzT3ZlcmxheSI6dHJ1ZSwiaXNUb3AiOnRydWV9&nktl=VV6kwFGkk1nCvAqnyicDCg
 * карта изменений карты лостармора по дням за период 15 апреля - 31 июля - https://yandex.ru/maps/?ll=37.879163%2C48.759789&mode=usermaps&source=constructorLink&um=constructor%3A9c50e8d929c7cd7e68e32fcccab6216d66b84f4be3aed036c20bb110adb9408d&z=10
 * карта изменений карты лостармора по дням за период 1 августа - конец ноября 2022 - 
 https://yandex.ru/maps/?ll=35.701908%2C48.352974&mode=usermaps&source=constructorLink&um=constructor%3A4cf274e27e2e2baff8bfdbd4a745c1c0e087ca864da1da2938cc660d97ebf2ea&z=7.6
+* еще одна карта изменений от Igor Primorsky https://yandex.ru/maps/?um=constructor%3A5e332fcde4dea136ad6856e40ca79b5154e88026778ebaf529a43e620cca8298&source=constructorLink
 * карта кота иванова https://geoworld.space/ukraine/ 
 * Карта онлайн мониторинга СЦКК ДНР - https://map.dnr-sckk.ru/ 
 * Платная карта от милитари мэпс - https://militarymaps.info/
